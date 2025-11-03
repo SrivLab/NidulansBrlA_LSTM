@@ -1,6 +1,10 @@
 BSD 3-Clause License
 
+<<<<<<< HEAD
 Copyright (c) 2025, Joseph Zavorskas
+=======
+Copyright (c) 2025, Srivastava Lab
+>>>>>>> a3c011138c8de06508191f2de8e453f820be3cfb
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
